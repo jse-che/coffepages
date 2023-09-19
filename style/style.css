@@ -171,7 +171,7 @@ container .titlebox {
     bottom: 0;
     left: 800px;
     margin-bottom: 20px;
-    padding: 0 100px 30px;
+    padding: 0 150px 30px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -345,7 +345,7 @@ container .titlebox {
 }
 
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 420px) {
     section {
         padding: 30px;
     }
@@ -356,6 +356,10 @@ container .titlebox {
 
     .contenido {
         padding-left: 0px;
+    }
+
+    .copyright {
+        padding-right: px;
     }
 
     .redesSociales {
