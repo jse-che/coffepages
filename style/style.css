@@ -210,7 +210,7 @@ container .titlebox {
 
 /* -- Pantalla Larga */
 
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 1242px) {
     .contenido .tituloBox h2 {
         font-size: 3.5em;
     }
